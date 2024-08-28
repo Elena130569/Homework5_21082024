@@ -47,7 +47,7 @@ public class Main {
             System.out.println(+ year + " является високосным годом");
         }
 
-        int monthNumber = 7;
+        int monthNumber = 8;
         switch (monthNumber) {
             case 1:
                 System.out.println("Данный месяц относится к зимнему сезону");
